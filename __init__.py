@@ -31,6 +31,6 @@ for iterator in range(1000, 10000):
             print(F"The number is {number}. Found in {i} times.")
             count += 1
 
-print(count)
+print("Numbers here: " + count)
 
 input()
